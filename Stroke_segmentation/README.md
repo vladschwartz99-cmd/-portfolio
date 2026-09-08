@@ -93,7 +93,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/vladschwartz99-cmd/Stroke_segmentation.git
+   git clone https://github.com/vladschwartz99-cmd/portfolio.git
    ```
    
 2. Перейдите в директорию проекта:
